@@ -1,0 +1,5 @@
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\bin\Debug\netcoreapp3.1\publish\Terminal-AveCalculator.exe
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\bin\Debug\netcoreapp3.1\publish\Terminal-AveCalculator.dll
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\bin\Debug\netcoreapp3.1\publish\Terminal-AveCalculator.deps.json
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\bin\Debug\netcoreapp3.1\publish\Terminal-AveCalculator.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\bin\Debug\netcoreapp3.1\publish\Terminal-AveCalculator.pdb
