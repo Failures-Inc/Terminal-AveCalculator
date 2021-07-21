@@ -1,0 +1,13 @@
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\bin\Debug\netcoreapp3.1\Terminal-AveCalculator.exe
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\bin\Debug\netcoreapp3.1\Terminal-AveCalculator.deps.json
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\bin\Debug\netcoreapp3.1\Terminal-AveCalculator.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\bin\Debug\netcoreapp3.1\Terminal-AveCalculator.runtimeconfig.dev.json
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\bin\Debug\netcoreapp3.1\Terminal-AveCalculator.dll
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\bin\Debug\netcoreapp3.1\Terminal-AveCalculator.pdb
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\obj\Debug\netcoreapp3.1\Terminal-AveCalculator.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\obj\Debug\netcoreapp3.1\Terminal-AveCalculator.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\obj\Debug\netcoreapp3.1\Terminal-AveCalculator.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\obj\Debug\netcoreapp3.1\Terminal-AveCalculator.dll
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\obj\Debug\netcoreapp3.1\Terminal-AveCalculator.pdb
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\obj\Debug\netcoreapp3.1\Terminal-AveCalculator.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\Terminal-AveCalculator\obj\Debug\netcoreapp3.1\Terminal-AveCalculator.csproj.AssemblyReference.cache
