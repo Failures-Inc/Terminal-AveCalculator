@@ -40,7 +40,7 @@ public class Program
         Console.WriteLine(" Do you want to restart?");
         // would you like to restart if statment
         string sen = (Console.ReadLine());
-        if (sen == "yes"&&"Yes"){
+        if (sen=="yes" && sen=="Yes"){
             Console.WriteLine("--------------------------");
         
             Cal();
